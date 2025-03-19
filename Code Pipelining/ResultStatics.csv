@@ -1,0 +1,98 @@
+,Event ID,Reports,Time [UTC] (average time if multiple reports),State,Apparent Magnitude (Average),"Apparent Duration (Average, sec)",Notes,Result Archive URL,Conclusion,Signal Time,Delta T [Report] (≈),Signal Duration (≈),Comments,,,,
+For 20240727,Event 3646-2024,9,2024-07-27 00:52 UT,"CT, MA, NH",-10.67,5.78,Has Video footage. During the day.,"Event 3689, 3646.xlsx",Matched,0:49:10,1 min,8.5sec,Use as example signal,Duration,Total,Matched Event,Match rate
+,Event 3690-2024,1,2024-07-27 01:43 UT,VA,-4,3.5,right on spot,"Event 3690, 3691, 3646.xlsx",Partially Matched / Not sure,,,,,0 to 2,37,29,0.7837837838
+,Event 3691-2024,3,2024-07-27 02:00 UT,"TX, OK",-6.67,1.5,out of range,"Event 3690, 3691, 3646.xlsx",Matched,2:00:03,0min,3sec,,2 to 3,18,13,0.7222222222
+Daily Break,Event 3712-2024,1,2024-07-28 05:19 UT,MD,-5,1.5,"in range, and close by","Event 3712, 3714, 3715, 3711.xlsx",Matched,5:18:41,1min,3sec,,3 to 4,26,17,0.6538461538
+,Event 3714-2024,1,2024-07-28 05:20 UT,NJ,-5,20,"in range, and close by",,Matched,6:18:47,2min,4sec,,4 to 6,4,4,1
+,Event 3717-2024,2,2024-07-28 06:41 UT,"MI, NY",-12,2.5,one is in range  though they might be a little far,"Event 3716, 3717.xlsx",Matched,5:45:49,0min,2.5sec,,6 to 8,3,2,0.6666666667
+For 20240730,Event 3775-2024,1,2024-07-30 02:15 UT,NY,-9,1.5,"in range, but may be a bit far","Event 3776, 3777, 3778, 3802, 3775.xlsx",Matched,2:15:18,0min,9sec,,>8,3,3,1
+Daily Break,Event 3802-2024,1,2024-07-30 02:29 UT,MO,-7,1.5,out of range but decent signal,,Matched,2:30:24,1,3.5sec,,Magnitude,Total,Matched Event,Match rate
+,Event 3779-2024,2,2024-07-30 03:40 UT,PA,-4,2.5,"in range, but may be a bit weak","Event 3801, 3779.xlsx",Matched,3:39:54,0min,1.5sec,,0 to -2.5,1,1,1
+,Event 3780-2024,2,2024-07-30 03:00 UT,FL,-9.5,5,"in range, and close by","Event 3778, 3780.xlsx",Matched,3:00:48,0min,11sec,,-2.5 to -5,2,1,0.5
+,Event 3790-2024,1,2024-07-30 04:26 UT,WV,-12`,3.5,"in range, and close by","Event 3781, 3790, 3782, 3791.xlsx",Matched,4:32:48,2min,10sec,close to 3790,-5 to -7.5,17,16,0.9411764706
+,Event 3797-2024,2,2024-07-30 05:49 UT,"MD, VA",-11,2.5,Contains video footage. This event is REALLY good.,"Event 3800, 3797, 3798.xlsx",Matched,5:49:28,0min,3sec,Really short and hide behind noise,-7.5 to -10,13,10,0.7692307692
+,Event 3798-2024,5,2024-07-30 06:47 UT,"NY, Ontario (Canada)",-10.2,1.7,Contains video footage. This event is REALLY good.,"Event 3803, 3798.xlsx",Partially Matched / Not sure,7:14:56,3min,3.5sec,,-10 to -12.5,31,23,0.7419354839
+For 20240731,Event 3813-2024,1,2024-07-31 01:21 UT,CT,-10,7.5,"in range, and strong signal",Event 3813.xlsx,Not Matched,1:11:38,9 min,5 - 7 s,"far from reported time, also very wierd signals exist",-12.5 to -15,15,9,0.6
+Daily Break,Event 3822-2024,1,2024-07-31 04:50 UT,IL,-13,1,out of range but decent signal,"Event 3824, 3822, 3823.xlsx",Matched,4:51:52,2min,4s,,-15 to -17.5,10,8,0.8
+,Event 3827-2024,1,2024-07-31 06:10 UT,OH,-10,7.5,"in range, and strong signal","Event 3824, 3826, 3827, 3828, 3829.xlsx",Matched,6:10:06,0min,5s,,-17.5 to -20,3,2,0.6666666667
+For 20240801,Event 3853-2024,2,2024-07-31 02:54 UT,MI,-9,3.5,"in range, and strong signal","Event 3853, 3854, 3855.xlsx",Matched,3:18:00,0min,3.5s,,,,,
+Daily Break,Event 3854-2024,1,2024-08-01 03:30 UT,NY,-10,1.5,"in range, and strong signal","Event 3853, 3854, 3855.xlsx",Matched,3:30:05,0min,3.5s,,,,,
+⭐⭐⭐⭐⭐⭐⭐,Event 3857-2024,1,2024-08-01 04:42 UT,NC,-9,1.5,"in range, and strong signal ⭐",Event 3857.xlsx,Matched,4:43:59,2min,10s,⭐ Triple match,,,,
+For 20240802,Event 3892-2024,2,2024-08-02 01:12 UT,PA,-10.5,2.5,"in range, and strong signal","Event 3892, 3893.xlsx",Matched,1:16:47,1min,1 - 1.5s,similar intensity and signals,,,,
+Daily Break,Event 3893-2024,2,2024-08-02 01:13 UT,"AL, FL",-8,1.5,"in range, and strong signal","Event 3892, 3893.xlsx",Matched,1:12:53,0min,"1 - 1,5 sec",a lot of similar signals,,,,
+,Event 3896-2024,2,2024-08-02 02:52 UT,SC,-10.5,2.5,"in range, and strong signal","Event 3896, 3897.xlsx",Matched,2:43:55,2min,5.5s,,,,,
+,Event 3898-2024,1,2024-08-02 03:15 UT,NC,-18,1.5,"in range, and strong signal","Event 3896, 3897, 3898.xlsx",Matched,3:15:45,0min,"4sec (4sec strong, 5sec weak tail)","This guy must be bragging here
+Daniel- ↑ ↑ ↑what???",,,,
+,Event 3899-2024,1,2024-08-02 03:45 UT,WI,-6,1.5,out of range and weak signal,"Event 3897, 3899.xlsx",Matched,3:44:53,0min,12sec,duration not matched,,,,
+,Event 3897-2024,8,2024-08-02 03:47 UT,"DE, MD, NJ, PA, VA",-10.25,3,"in range, and close by, with enough reports",,Matched,3:50:17,0min,2.5sec,Close signal,,,,
+,Event 3901-2024,4,2024-08-02 05:18 UT,"FL, NC, SC",-11.25,13.75,Contains video footage. This event is REALLY good.,"Event 3901, 3902, 3903.xlsx",Matched,5:14:17,1min,13.5sec,Use as example signal,,,,
+,Event 3904-2024,1,2024-08-02 06:12 UT,CT,-5,1.5,Contains video footage. This event is REALLY good.,"Event 3904, 3905.xlsx",Matched,6:13:17,0.5min,2sec,"Not really obvious, but shows up on both cannel",,,,
+For 202400805,Event 3987-2024,1,2024-08-05 02:01 UT,MI,-7,3.5,out of range,"Event 3986, 3987, 3988, 3989, 4055.xlsx",Matched,1:59:47,2min,3sec,Almost in the noise,,,,
+,Event 4055-2024,1,2024-08-05 02:20 UT,NC,0,1.5,in range but not enough magnitude,"Event 3986, 3987, 3988, 3989, 4055.xlsx",Matched,2:19:05,2min,2.5sec,,,,,
+⭐⭐⭐⭐⭐⭐⭐,Event 3989-2024,3,2024-08-05 02:21 UT,NC,-17.33,1.5,"in range, and close by, with enough reports ⭐",,Matched,2:18:59,2min,5sec,Triple match ⭐,,,,
+,Event 3988-2024,4,2024-08-05 03:06 UT,"MA, MD, NY",-11.25,7,"in range, and close by, with enough reports","Event 3986, 3987, 3988, 3989, 4055.xlsx",Matched,2:15:41,0min,7sec,Use as example signal,,,,
+,Event 3994-2024,3,2024-08-05 03:25 UT,NV,-15.67,4.83,way far off but high magnitude,,Not Matched,,,,"No signal founded, may be it's too far away",,,,
+,Event 3999-2024,3,2024-08-05 05:18 UT,"MA, ME, NY",-11.67,2.83,"in range, and close by, with enough reports","Event 4000, 3999.xlsx",Partially Matched / Not sure,5:14:05,3min,12sec,,,,,
+Daily Break,Event 3786-2024,36,2024-08-06 02:32 UT,"KS, MO, NE, OK",-10.55,2.67,"Not within the desired range, but it has so many reports it is worth looking into. Contains video footage. ","Event 4024, 3786 (2).xlsx",Matched,1:37:07,12min (Between reports),12sec,Looks like far from reported time but really clear signals,,,,
+,Event 4030-2024,1,2024-08-06 03:53 UT,PA,-13,1.5,"in range , and good magnitude","Event 3784, 4027, 4028, 4029, 4030, 4031.xlsx",Not Matched,3:36:29,17min,13sec,"Decent signals but far from reported time, not sure whose signals it belongs to",,,,
+,Event 4028-2024,1,2024-08-06 03:38 UT,TX,-16,3.5,"in range , and good magnitude",,Matched,3:36:29,1min,10s,,,,,
+,Event 4031-2024,1,2024-08-06 03:59 UT,IN,-13,1.5,out of range but decent signal,,Matched,4:01:25,2min,1sec,"Really short, but seems like a meteor, not lighting (didn't go right up to the top)",,,,
+,Event 4116-2024,2,2024-08-08 05:33 UT,"NY, OH",-16.5,2.5,"in range, and good strong signal",Event 4116.xlsx,Matched,5:14:08,19 min,11sec,decent signals but far from reported time,,,,
+,Event 4375-2024,1,2024-08-08 07:09 UT,CT,-5,1,Contains video footage. This event is REALLY good.,"Event 4100, 4375.xlsx",Matched,7:04:02,5min,< 1s,really narrow signal,,,,
+"For 20240809,20240810",Event 4153-2024,1,2024-08-09 06:35 UT,NC,-12,3.5,"in range, and strong signal ⭐",Event 4153.xlsx,Not Matched,,,,Event 4153 (1).xlsx,,,,
+Daily Break,Event 4185-2024,3,2024-08-10 01:44 UT,"MD, NC, VA",-10,2.1,"in range, and close by, with strong signals (⭐not sure)","Event 4185, 4186, 4164.xlsx",Matched,1:34:22 AM / 1 :54: 23,1min / 4 min,1s / 2-3s,Channel 1 completely broken from now,,,,
+,Event 4186-2024,1,2024-08-10 01:45 UT,OH,-5,1.5,decent siganal but is to far,,Not Matched,,,,,,,,
+,Event 4194-2024,2,2024-08-10 02:53 UT,"MD, PA",-12.5,2.5,"in range, and close by, with strong signals","Event 4193, 4194, 4164, 4202.xlsx",Not Matched,,,,,,,,
+,Event 4202-2024,1,2024-08-10 03:05 UT,NC,-8,3.5,"in range, and decent signal ⭐",,Not Matched,,,,,,,,
+,Event 4176-2024,1,2024-08-10 07:28 UT,NC,-13,1.5,"in range, and strong signal ⭐",Event 4176.xlsx,Matched,7:27:38,1min,2.5sec,,,,,
+,Event 4175-2024,1,2024-08-10 09:05 UT,PA,-13,1.5,"in range, and close by, with strong signals (⭐not sure)","Event 4162, 4175.xlsx",Matched,9:04:48,12 sec,1-2sec,decent signals,,,,
+,Event 4196-2024,2,2024-08-10 09:55 UT,NC,-10,2.25,"in range, and close by, with strong signals⭐ (B282)",Event 4196.xlsx,Matched,10:14:56,2 min,3 sec,"from bottom to top, hiding",,,,
+,Event 4218-2024,1,2024-08-10 22:10 UT,NH,-8,1.5,"in range, and decent signal, but might be a bit far","Event 4218, 4207.xlsx",Not Matched,,,,,,,,
+,Event 4207-2024,1,2024-08-10 22:15 UT,VT,-13,3.5,"in range, and decent signal, but might be a bit far",,Not Matched,,,,,,,,
+,Event 4214-2024,1,2024-08-10 23:20 UT,WV,-7,3.5,"in range, and close by, with decent signals",Event 4214.xlsx,Matched,23:20:50,0min,>10s,"very deent signal changes, except for unmatched duration",,,,
+Daily Break,Event 3883-2024,9,2024-08-11 01:48 UT,"MD, NY, OH, PA",-8.67,2.39,"Within the desired range, and it has many reports worth looking into. ⭐","Event 3883, 4243, 4246.xlsx",Not Matched,,,,Wierd signals ,,,,
+,Event 4255-2024,2,2024-08-11 03:22 UT,"OH, PA",-9,-2.5,"in range, and strong signal⭐","Event 4256, 4258, 4250, 4252, 4255.xlsx",Matched,3:35:50,0min,1s,"Confirmed not to be lightning, Event 4256, 4258, 4250, 4252, 4255-0-25khz.xlsx",,,,
+,Event 4266-2024,2,2024-08-11 03:48 UT,IL,-18.5,2.5,"decent signal, but might be a bit far ⭐","Event 4256, 4258, 4263, 4265, 4266, 4267, 4268, 4269, 4244, 4252, 4255.xlsx",Not Matched,,,,,,,,
+,Event 4263-2024,5,2024-08-11 04:12 UT,"CT, PA, VA, WV",-10,3.9,"Within the desired range, and it has many reports worth looking into. ⭐","Event 4244, 4261, 4262, 4263.xlsx",Matched,4:20,1min,20s,,,,,
+,Event 4244-2024,4,2024-08-11 04:34 UT,"CT, MA, NY",-6.5,3.5,"in range, and close by, with strong signals","Event 4261, 4262, 4263, 4244, 4376.xlsx",Matched,4:34:35,2min,3s,apparent signals,,,,
+,Event 4260-2024,1,2024-08-11 05:23 UT,WV,-20,3.5,"in range, and close by, with strong signals ⭐","Event 4249, 4251, 4260.xlsx",Matched,5:23:23,0min,2s,,,,,
+,Event 4240-2024,1,2024-08-11 07:29 UT,NJ,-9,3.5,"in range, and close by, with strong signals ⭐",Event 4240.xlsx,Matched,7:28:30,30s,3s,,,,,
+,Event 4293-2024,1,2024-08-11 09:01 UT,WI,-10,3.5,Might be too far away.,"Event 4292, 4293.xlsx",Not Matched,,,,,,,,
+,Event 4292-2024,1,2024-08-11 09:15 UT,PA,-5,<1,"in range, and close by, with decent signals ⭐",,Matched,9:16:48,1min,<1s,,,,,
+,Event 4291-2024,1,2024-08-11 09:27 UT,NC,-15,1,"in range, with strong signals",Event 4292.xlsx,Matched,,,,AMS local data base 4291 event accidentally deleted ,,,,
+,Event 4299-2024,5,2024-08-11 22:09 UT,"NY, Ontario (Canada)",-15,1.9,,Event 4299.xlsx,Matched,22:08:32,3min,<1s,Daikun I can see something all three,,,,
+,Event 4302-2024,1,2024-08-11 22:45 UT,NY,-10,1.5,"in range, with strong signals","Event 4302, 4303.xlsx",Not Matched,,,,,,,,
+,Event 4303-2024,1,2024-08-11 22:54 UT,TN,-10,3.5,Might be too far away.,,Matched,22:55:44,1min,1s,,,,,
+,Event 4313-2024,1,2024-08-11 23:56 UT,NJ,-14,3.5,,"Event 4312, 4313.xlsx",Matched,0;00:14,3min,1s,,,,,
+For 20240812,Event 4309-2024,13,2024-08-12 02:15 UT,"NY, Ontario (Canada), PA",-11.2,2.7,from 2024-08-12 01:50 UT to 2024-08-12 02:43 UT,Event 4309.xlsx,Matched,2:14:30,30s,1s,,,,,
+,Event 4322-2024,18,2024-08-12 04:14 UT,"CT, DE, MA, MD, NJ, NY, PA",-11.5,3.1,from 2024-08-12 04:00 UT to 2024-08-12 04:36 UT,"Event 4321, 4322, 4323, 4327, 4328, 4329, 4332, 4334, 4335, 4337, 4338, 4339, 4340.xlsx",Matched,4:33:30,0min,1s,,,,,
+,Event 4332--2024,2,2024-08-12 04:20 UT,CO,-11.5,3.5,"level 3, level 4",,Matched,4:31:30,0min,1,,,,,
+,Event 4334-2024,1,2024-08-12 04:25 UT,IL,-5,1.5,Might be too far away.,,Matched,4:25:42,0min,2,,,,,
+,Event 4335-2024,3,2024-08-12 04:30 UT,"IL, MI",-10,3,Exp Level: 3 ⭐,,Matched,4:29:24,0min,1,,,,,
+,Event 4337-2024,1,2024-08-12 04:29 UT,MN,-6,3.5,level 3 ,,Matched,4:31:18,30s,1,,,,,
+,Event 4338-2024,1,2024-08-12 04:35 UT,VT,-13,1,,,Matched,4:35:48,0min,1,,,,,
+,Event 4354-2024,5,2024-08-12 06:48 UT,"NJ, VA, PA, OH",-14.4,3.1,Close to DC worth looking into,"Event 4354, 4357.xlsx",Not Matched,,,,,,,,
+For 20240813,Event 4434-2024,2,2024-08-13 01:49 UT,"VA, PA",-5.5,1.5,,Event 4434.xlsx,Matched,1:56:21,0min,2s,,,,,
+,Event 4451-2024,1,2024-08-13 06:29 UT,FL,-6,1.5,⭐,"Event 4450, 4451, 4452.xlsx",Matched,6:28:21,1min,1s,,,,,
+,Event 4452-2024,1,2024-08-13 06:30 UT,NY,-8,1.5,⭐,,Matched,6:28:27,2min,2s,,,,,
+,Event 4454-2024,1,2024-08-13 07:02 UT,VA,-17,1.5,close to DC,"Event 4453, 4454.xlsx",Not Matched,,,,,,,,
+For 20240815,Event 4051-2024,38,2024-08-15 01:00 UT,"AL, FL, GA",-11.2,4.5,"Contains video footage, and has a LOT of reports. This event is REALLY good.",Event 4051.xlsx,Matched,0:30:48,0min,4s,Very strong signals occured too,,,,
+,Event 4388-2024,5,2024-08-16 06:18 UT,,,,,"Event 4388, 4396.xlsx",Matched,6:31:00,0min,3s,,,,,
+,Event 4396-2024,3,2024-08-16 06:50 UT,"PA, VA, MD",-14.6,2.2,with direction arrow ⭐,,Partially Matched / Not sure,6:49:48,0min,1s,,,,,
+,Event 4761-2024,1,2024-08-20 05:15 UT,NC,-10,1.5,,"Event 4761, 4538.xlsx",Matched,5:13:55,1min,1-3s,,,,,
+Daily Break,Event 4567-2024,4,	2024-08-22 02:55 UT,"OH, NJ, NJ, WI",-8.3,1.25,with direction arrow. 7min of NASA match.,Event 4567.xlsx,Matched,2:52:43,0min,1,,,,,
+,Event 4582-2024,273,2024-08-23 01:44 UT,NA,NA,NA,NASA match ⭐,Event 4582.xlsx,Partially Matched / Not sure,,,,,,,,
+Daily Break,Event 4618-2024,8,2024-08-24 02:10 UT,"IN, MI, WI",-14.6,3.6,worth look into,"Event 4618, 4620.xlsx",Matched,2:09:52,0min,1min,,,,,
+,Event 4620-2024,1,2024-08-24 02:08 UT,AZ,-15,45,,,Matched,2:02:52,5min,>3min,,,,,
+,Event 4621-2024,2,2024-08-24 02:45 UT,"WI, Ontario",-12.5,1.25,,"Event 4621, 4622.xlsx",Not Matched,,,,,,,,
+,Event 4622-2024,105,2024-08-24 03:15 UT,"MI, IN, WI, IL, NY, OH, Ontario, IA, KY",-12.5,2.5,"Not within the desired range, but it has so many reports it is worth looking into.
+NASA Match ⭐",,Matched,3:05:46,1min, fg,,,,,
+For 202408225,Event 4631-2024,19,2024-08-25 01:27 UT,"VA, PA, WV, MD, NY, NC",-9.2,5.9,"close to DC, lots of witnesses and with photo",Event 4631.xlsx,Matched,"2:41, 42, 45, 46, 50, 3:01:21 AM",0min,10s,"Match with NASA, caught by our sky cam 2:43",,,,
+Daily Break,Event 4632-2024,3,2024-08-25 02:08 UT,"PA, Ontario, Ontario",-16,2.2,,"Event 4632, 4634, 4635, 4631.xlsx",Matched,2:07:25,0min,2s,,,,,
+,Event 4635-2024,5,2024-08-25 02:20 UT,FL,-10.4,2.7,lots of witnesses,,Matched,2:15:31,0min,3s,,,,,
+,Event 4654-2024,1,2024-08-25 09:05 UT,WI,-13,1.5,⭐,"Event 4653, 4654.xlsx",Matched,9:05,0min,5s,,,,,
+,Event 4666-2024,6,2024-08-26 03:27 UT,CA,-15,3.5,,"Event 4666, 4667, 4690, 4675.xlsx",Matched,3:28:42,1min,20s,,,,,
+,Event 4667-2024,2,2024-08-26 03:50 UT,"VA, TN",-10,3.5,"close to DC, probably solid reports",,Not Matched,,,,,,,,
+Daily Break,Event 4695-2024,2,	2024-08-27 08:58 UT,"CT, MA",-11.5,1.25,with photo,Event 4695.xlsx,Not Matched,,,,,,,,
+,Event 4696-2024,1,2024-08-27 09:30 UT,TX,-11,3.5,,"Event 4696, 4697.xlsx",Matched,9:30:50,0min,5s,,,,,
+,Event 4697-2024,1, 	2024-08-27 09:32 UT,IL,-5,1.5,,,Matched,9:32:33,0min,7s,,,,,
